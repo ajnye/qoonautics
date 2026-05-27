@@ -558,14 +558,6 @@ file = "config/entityculling.json"
 hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
 
 [[files]]
-file = "config/euphoria_patcher/.data.json"
-hash = "1e5a5ec582afd41b61d57ad7d6626e301f40881722a50c418d98d8a0cace3d28"
-
-[[files]]
-file = "config/euphoria_patcher/settings.toml"
-hash = "8b8670a8dcb8a8328c7ec9edb36b0b4e524b00433fca6d3289d9cf67120d51fe"
-
-[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "de0ca87fc56be96989dc15d742fa1dd016c576e67368f579e83276ca7f005a87"
 

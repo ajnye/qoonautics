@@ -6,6 +6,8 @@ gnore downloaded jars that are tracked by Packwiz metadata
 # you have to force-add them. For example:
 # !mods/my-custom-patch-1.0.jar
 
+.packwiz
+
 # Ignore local game files if you test the pack in this same directory
 /saves/
 /logs/
