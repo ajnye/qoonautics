@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "..gitattributes.un~"
-hash = "630e3e448083c6deede83a5a384563dd5f1c13a5512aa49ddee12113eddb6561"
-
-[[files]]
-file = "..gitignore.un~"
-hash = "ff6ae31dcf92a43782c9246547f8bdeaa1bb4bb95cc2de4c4e2cd5430053be9e"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
