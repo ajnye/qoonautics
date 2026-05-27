@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"betterend:umbralith"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farm_and_charm:onion_soup"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

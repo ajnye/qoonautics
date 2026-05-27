@@ -1,0 +1,14 @@
+gnore downloaded jars that are tracked by Packwiz metadata
+*.jar
+!packwiz-installer-bootstrap.jar
+
+# (Optional) If you have custom local .jar mods you DO want to commit, 
+# you have to force-add them. For example:
+# !mods/my-custom-patch-1.0.jar
+
+# Ignore local game files if you test the pack in this same directory
+/saves/
+/logs/
+/crash-reports/
+/options.txt
+/usercache.json

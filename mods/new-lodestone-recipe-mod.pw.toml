@@ -1,0 +1,13 @@
+name = "New Lodestone Recipe"
+filename = "new-lodestone-recipe-1.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc854d1314f8a5cfb9990d1d46317ae7491d3454"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7510572
+project-id = 1179979

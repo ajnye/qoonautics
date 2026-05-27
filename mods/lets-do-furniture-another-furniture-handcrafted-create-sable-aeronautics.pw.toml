@@ -1,0 +1,13 @@
+name = " [Let's do] Furniture, another furniture, handcrafted - create/sable(aeronautics) compatibility"
+filename = "createfurnitureseats-4.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3c7517f0098eb21f12f82a63a6f1fb89683e1ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8150674
+project-id = 1528288

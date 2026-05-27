@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createdieselgenerators:huge_diesel_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tracks:suspension_key","components":{"minecraft:custom_data":{"TracksSuspensionKeyMode":9}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

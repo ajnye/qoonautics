@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"aeronautics:steam_vent"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:adjustable_burner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:aviators_goggles"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"offroad:large_tire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:cassette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:hollow_cassette"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:cassette","components":{"vista:cassette_tape":"vista:67"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:cassette","components":{"vista:cassette_tape":"vista:nature"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:music_disc_sojourn"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:viewfinder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vista:television"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "QooQooApple",
+      "uniqueId": "491caa18-063f-40f0-9dd6-562a290720b7"
+    },
+    "time": 1777420985992,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YnyGZxGYbg"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "QooQooApple",
+      "uniqueId": "491caa18-063f-40f0-9dd6-562a290720b7"
+    },
+    "time": 1777420837562,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/u0k3l4AMqP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "QooQooApple",
+      "uniqueId": "491caa18-063f-40f0-9dd6-562a290720b7"
+    },
+    "time": 1777416022824,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jF1aLhM9oM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "QooQooApple",
+      "uniqueId": "491caa18-063f-40f0-9dd6-562a290720b7"
+    },
+    "time": 1777415960815,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UXSQacvWH4"
+    }
+  }
+]

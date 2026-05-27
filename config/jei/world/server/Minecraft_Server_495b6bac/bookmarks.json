@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"simulated:iron_handle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aether:golden_parachute","components":{"minecraft:damage":4}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_log"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

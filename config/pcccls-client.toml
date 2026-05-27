@@ -1,0 +1,22 @@
+#Enable runtime compatibility fixes when Vibrant Clouds is the active shaderpack.
+enableVibrantCloudsCompat = true
+#Enable extra runtime compatibility hooks when Simple Clouds is loaded.
+enableSimpleCloudsCompat = true
+#How often shader/mod runtime state should be refreshed (in client ticks).
+# Default: 60
+# Range: 20 ~ 1200
+checkIntervalTicks = 60
+#Case-insensitive substring used to detect the target shaderpack name when strictShaderPackMatch is enabled.
+shaderNameMatch = "vibrant-clouds"
+#If false, compat fixes run for any enabled shaderpack. If true, shaderNameMatch must match.
+strictShaderPackMatch = false
+#Fix Creative Physics Staff beam focus calculations under Vibrant Clouds.
+fixPhysicsStaffFocus = true
+#Disable Aeronautics levitite custom shader layer when compat conditions are met.
+fixLevititeShaderFlicker = true
+#Use a shader-safe render path for Simulated lasers when sky/background composition breaks.
+fixSimulatedLaserSkyVisibility = true
+#Stabilize Plunger Launcher first-person cable focus under shader compatibility mode.
+fixPlungerLauncherFocus = true
+#Use a shader-safe fallback for Aeronautics Hot Air Burner flame rendering.
+fixHotAirBurnerFlameVisibility = true

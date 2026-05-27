@@ -1,0 +1,21 @@
+[Triggers]
+	#sets default permission for placing physics blocks
+	"Placed?" = true
+	#when updated and floating, blocks will gain physics
+	"Floating?" = true
+
+["Control Placing"]
+	#allow anyone to toggle placement rules for themselves
+	"Allow Everyone" = false
+	#allow creative mode players to toggle placement rules for themselves
+	"Allow Creative" = true
+	#allow ops to toggle placement rules for themselves
+	"Allow OPs" = true
+
+[Sticky]
+	#allow items with sticky tag to stick items to ships
+	"Allow On Ships" = true
+	#allow items with sticky tag to stick items to world
+	"Allow On World" = false
+	#removes/damages item if used for sticking
+	"Drain Item" = false
