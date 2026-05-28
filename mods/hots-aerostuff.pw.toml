@@ -1,0 +1,13 @@
+name = "Hot's Aerostuff"
+filename = "hotstuff-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c414e21c728efca7b566d5333c61e548b0f4544"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8152291
+project-id = 1548347

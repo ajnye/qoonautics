@@ -1,6 +1,7 @@
 name = "Create: Let The Adventure Begin"
 filename = "create_ltab-4.0.1.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/oPEFIAt3/create_ltab-4.0.1.jar"
