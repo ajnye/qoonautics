@@ -1440,7 +1440,7 @@ metafile = true
 
 [[files]]
 file = "mods/hots-aerostuff.pw.toml"
-hash = "ce149345b6450fcf14c864dd8daba620fab2b740b6008debc645a0b963f8ad62"
+hash = "db60e1435e750fc125d15dabdd853322a1172531a7405b487dd66d1544d93619"
 metafile = true
 
 [[files]]
