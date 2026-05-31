@@ -1449,6 +1449,11 @@ hash = "382bbe0bce096eedf6e74eceb87012d1675f667231ef134c1185ebd4f58a2678"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
 file = "mods/ingotcraft.pw.toml"
 hash = "7e196d810c3f1d4d7c3ec83f93688e3a1e5c653772745b95cf539af343e8d52d"
 metafile = true
