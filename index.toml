@@ -1315,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "7e7518dcd662d81f1fdbd827c775e4812a1a920c904b2bd845b405ce66916c88"
+hash = "90f936b5bc3aa77315b35f4475ca529f12487f732c15782c6971e3f91d9905c9"
 metafile = true
 
 [[files]]
