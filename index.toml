@@ -1280,7 +1280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "18874192d759de667fbad038b4b592ccebe6e201474994881be226e7074d112c"
+hash = "96cf97e70af78acba5f72552f481701810c3e2b1c30a928279ce93a7e8bcc242"
 metafile = true
 
 [[files]]
@@ -1324,6 +1324,11 @@ hash = "90f936b5bc3aa77315b35f4475ca529f12487f732c15782c6971e3f91d9905c9"
 metafile = true
 
 [[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "ad5c2fd3c28bd92617c104d5cfc32fc1fd9b16585af1f5631cc4c59954fa8eef"
+metafile = true
+
+[[files]]
 file = "mods/create-nowheel.pw.toml"
 hash = "6cac4e9daee3b12492b92871f31f4f7d662b412a223fcd1301896db48ded3bc1"
 metafile = true
@@ -1355,7 +1360,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b0666ac2531837c0ac53374a6b9e72ea4b981b721fc7a94701e0f82bb806fca6"
+hash = "3966f08ef3db053c3024e44975ed41f29a074a7d639e0b02f514fc91ac58b655"
 metafile = true
 
 [[files]]
@@ -1385,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-mob-farm.pw.toml"
-hash = "35c68afc19c855c2edf42d32f495f90c4623cae73437a806c68143c35c451531"
+hash = "2e3ee800d9cf4b5cc1aecf1dc4a4adadc5625f558b8b4f470a2784191c4d0603"
 metafile = true
 
 [[files]]
@@ -1400,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/ends-delight.pw.toml"
-hash = "d54dfeaf2549f083b59990d0ca73a22525fac367a9a3d09592d378533972cb34"
+hash = "fc2742e86220ba39d0638c16118108ce1e6be56fbf742664a0818465c2790791"
 metafile = true
 
 [[files]]
@@ -1420,7 +1425,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "9f633d92440c43d32008b7725a60175cccc3604cea2dd8e3493e0b11c06a3181"
+hash = "1010c34ac2177d15b77d843b7e514d152df73d5f0c05b59247eeaa525b23698d"
 metafile = true
 
 [[files]]
@@ -1450,7 +1455,7 @@ metafile = true
 
 [[files]]
 file = "mods/hots-aerostuff.pw.toml"
-hash = "db60e1435e750fc125d15dabdd853322a1172531a7405b487dd66d1544d93619"
+hash = "59bfc302328124a6961ab7e0f9951a112da4ac4617826c0ad1d30e870bd8061a"
 metafile = true
 
 [[files]]
@@ -1605,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "749cfa5705d833829b1ae7bf7680f82d933bd4a6ca12208a5c3ad5a62fcec89b"
+hash = "d941a69a6e86fe06490e86f71e3c0c5b754bb18b66cfc69d3fb6f5d65fd6b5b2"
 metafile = true
 
 [[files]]
@@ -1665,12 +1670,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "117efb0558b6e473e5b0d6da06211133034b93a7497dcc5ecd537837300a29bf"
+hash = "bc25377f8b68a18c340c3b33b010331e8d715bc2f9dcc8be833b131b5b25d6dd"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d8c1903e1d2ff470c5d177bf1537c6a4fe8c78be270f06bb40e0a3be865dc1db"
+hash = "e3afdcd6a65d2c9f4f7d7da4a3bb0d4f13eec95260665eec9db46250eb33bb65"
 metafile = true
 
 [[files]]
@@ -1730,7 +1735,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones-sable.pw.toml"
-hash = "7c5833df412e9bf50d611c5a3f36014f2b986f9bc7ed25b0e543ef802f612198"
+hash = "23fcbec4fa6a10db799090b3337597fa3d2508b18e120f4b42d0146854692a04"
 metafile = true
 
 [[files]]
@@ -1740,7 +1745,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "4b78f845d8eb6f5b47d4cd9ad534dc5e1a11e45fafbcd4106b25479bd2e080b1"
+hash = "a30086884843ddcd5b0f5d3d82d0942341c8bdc09adf3198a0621ab4751f7c16"
 metafile = true
 
 [[files]]
