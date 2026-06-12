@@ -1414,11 +1414,6 @@ hash = "fc2742e86220ba39d0638c16118108ce1e6be56fbf742664a0818465c2790791"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-diagrams.pw.toml"
-hash = "dd5c118046ad2fc90d9673c338f8d522758a2fa4e23f8df6e464fb94a5ed80ce"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
