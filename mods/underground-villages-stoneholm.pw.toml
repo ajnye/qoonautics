@@ -1,6 +1,7 @@
 name = "Underground Villages, Stoneholm (Fabric/Forge/NeoForge)"
 filename = "underground_village-neoforge-1.21.1-1.5.7.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

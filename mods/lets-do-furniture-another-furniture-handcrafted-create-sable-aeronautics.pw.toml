@@ -1,13 +1,13 @@
-name = " [Let's do] Furniture, another furniture, quark, handcrafted - create/sable(aeronautics) compatibility"
-filename = "createfurnitureseats-4.7.8.jar"
+name = "furniture mods - create/sable(aeronautics) compatibility"
+filename = "createfurnitureseats-4.8.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "682494d2d9a5fde0909633037385eb091a3e128d"
+hash = "43bd165fcf7dd15abb9ea71b8411a46b323610d2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8151887
+file-id = 8181058
 project-id = 1528288

@@ -1,13 +1,13 @@
 name = "Reliable Replacer"
-filename = "reliable_replacer-neoforge-1.21.1-1.5.3.jar"
+filename = "reliable_replacer-neoforge-1.21.1-1.5.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c72be3d132df5c659cb269e5b133147ad0696b7a"
+hash = "da8341a431c76b535daef886d0bb7a678ea57d92"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8182148
+file-id = 8198138
 project-id = 1450759
