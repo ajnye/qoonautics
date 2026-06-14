@@ -1419,11 +1419,6 @@ hash = "15bd5160382f5fae645c4a50560d27a98ddc5ca100c594f1817979d1a17c04e1"
 metafile = true
 
 [[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "1010c34ac2177d15b77d843b7e514d152df73d5f0c05b59247eeaa525b23698d"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
@@ -1601,11 +1596,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "ed816a4574588c1d994fd152c024bc888737c2d5b5bd5a1314705e97e8462d9a"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "18acfb6f1a54fea702fee947029a260ff6ac865aad5fc64a3ed6193eabac830a"
 metafile = true
 
 [[files]]
