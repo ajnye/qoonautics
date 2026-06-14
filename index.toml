@@ -1244,11 +1244,6 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "aeaf3e980a790f22c302dbc12869d40f6ef77cfbeec2be17d5aeacdf516fc039"
-metafile = true
-
-[[files]]
 file = "mods/create-additions-sable-compat.pw.toml"
 hash = "32cf111445fbc79b18739bf788772911ab5c9de6318bbc49b431144f94f95349"
 metafile = true
@@ -1725,12 +1720,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "4c0e12b3b548db6e4c73aacb7121b2cbec290e2c002d1ddb64fa909f04a0e12b"
+hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "1ead8b09640301f8c5e54a4ead995070abad06781374f818dd3094516b2adb99"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]
