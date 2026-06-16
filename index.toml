@@ -1244,6 +1244,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
+metafile = true
+
+[[files]]
 file = "mods/create-additions-sable-compat.pw.toml"
 hash = "32cf111445fbc79b18739bf788772911ab5c9de6318bbc49b431144f94f95349"
 metafile = true
@@ -1419,6 +1424,11 @@ hash = "15bd5160382f5fae645c4a50560d27a98ddc5ca100c594f1817979d1a17c04e1"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
@@ -1466,6 +1476,11 @@ metafile = true
 [[files]]
 file = "mods/ingotcraft.pw.toml"
 hash = "7e196d810c3f1d4d7c3ec83f93688e3a1e5c653772745b95cf539af343e8d52d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
